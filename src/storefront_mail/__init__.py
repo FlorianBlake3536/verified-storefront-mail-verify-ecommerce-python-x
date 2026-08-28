@@ -1,0 +1,2 @@
+"""Storefront email verification example."""
+
